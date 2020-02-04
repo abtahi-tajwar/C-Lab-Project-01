@@ -1,0 +1,6 @@
+F:\WPF Projects\WpfApp1\LabAssignment01\LabAssignment01\bin\Debug\LabAssignment01.exe.config
+F:\WPF Projects\WpfApp1\LabAssignment01\LabAssignment01\bin\Debug\LabAssignment01.exe
+F:\WPF Projects\WpfApp1\LabAssignment01\LabAssignment01\bin\Debug\LabAssignment01.pdb
+F:\WPF Projects\WpfApp1\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.exe
+F:\WPF Projects\WpfApp1\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.pdb
+F:\WPF Projects\WpfApp1\LabAssignment01\LabAssignment01\obj\Debug\LabAssignment01.csprojAssemblyReference.cache

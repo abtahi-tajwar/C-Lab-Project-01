@@ -1,0 +1,8 @@
+#1
+Program Name = Discrete Math
+
+Department Head = Afroza Nahar
+
+Degrees = Computer Science
+
+
